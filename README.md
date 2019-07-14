@@ -1,5 +1,6 @@
 # Snake-Attack
-Basic Snake attack game made with a tutorial
+Basic Snake attack game made with a tutorial:
+
 Source Code for Snake project can be found here:
 https://www.youtube.com/watch?v=rbasThWVb-c
 
